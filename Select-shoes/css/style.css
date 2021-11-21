@@ -1,0 +1,18 @@
+.custome{
+    width:1200px;
+    margin: 0 auto;
+}
+.pic{
+    width:800px;
+    float:left
+}
+.pic>img{width:100%;}
+.selector{
+    width:350px;
+    float:right;
+    font-size:30px;
+}
+.selector>p>select{
+    width:150px;
+    font-size:30px;
+}

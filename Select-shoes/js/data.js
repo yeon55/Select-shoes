@@ -16,6 +16,7 @@ window.Indata = {
 
     bySize:{
         '7' : ['red','green'],
+        '7.5' : ['red','blue','green'],
         '8' : ['red','green','brown'],
         '8.5' : ['red','blue','green','brown'],
         '9' : ['red','blue','green'],
@@ -30,4 +31,3 @@ window.Indata = {
         'green' : ['7','9','9.5','10.5'],
         'brown' : ['7','7.5','8.5','9','10','10.5']
     }
-}
